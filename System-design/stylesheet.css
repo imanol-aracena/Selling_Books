@@ -1,0 +1,17 @@
+.size {
+  width: 200;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.text {
+  justify-content: center;
+  text-align: center;
+  word-wrap: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
